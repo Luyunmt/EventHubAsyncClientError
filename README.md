@@ -1,4 +1,4 @@
-# EventHubs-donet-bug-whenConsumerEvents
+# EventHubs-java-bug-whensendreceive
 The client created by using host, enventhubname and Credential doesn't work.Use ConnectString to  create EventhubAsyncClient works well. 
 
 # Reproduce this issue
