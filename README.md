@@ -3,7 +3,8 @@ The client created by using host, enventhubname and Credential doesn't work.Use 
 
 # Reproduce this issue
 - clone this repository using Git first.
-    - git clone https://github.com/wantedfast/EventHubs-donet-bug-whenConsumerEvents.git
+
+- git clone https://github.com/wantedfast/EventHubs-donet-bug-whenConsumerEvents.git
 
 - set AZURE_CLIENT_ID, AZURE_CLIENT_SECRET, and AZURE_TENANT_ID environment variables.
 
